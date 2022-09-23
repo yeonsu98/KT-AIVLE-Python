@@ -1,0 +1,7 @@
+path: /content/datasets/spongebob  # dataset root dir
+train: images/train  # train images (relative to 'path') 128 images
+test: images/train # test images (optional)
+
+# Classes
+nc: 4  # number of classes
+names: ['jingjing', 'star', 'bosscrab', 'spongebob']  # class names
