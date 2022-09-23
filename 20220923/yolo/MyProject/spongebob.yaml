@@ -1,7 +1,8 @@
-path: /content/datasets/  # dataset root dir
+path: /content/drive/MyDrive/KT_AIVLE_SCHOOL/20220923/MyProject  # dataset root dir
 train: images/train  # train images (relative to 'path') 128 images
+val: images/train    # val images (relative to 'path') 128 images
 test: images/test # test images (optional)
 
 # Classes
 nc: 4  # number of classes
-names: ['jingjing', 'star', 'bosscrab', 'spongebob']  # class names
+names: ['spongebob', 'bosscrab', 'star', 'jingjing']  # class names
